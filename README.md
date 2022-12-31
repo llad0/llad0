@@ -43,9 +43,11 @@ Some methods were applied to avoid unbalanced labels.
 Medium-high fiability model, F1 Score of 80% for SVM models.
 
 Confusion Matrix of Linear SVM's result of applying a test.
+
 ![image](https://user-images.githubusercontent.com/25139526/210154434-88019d05-99b0-4063-8ece-e9f064f1d309.png)
 
 Clusters generated from the K-means model
+
 ![image](https://user-images.githubusercontent.com/25139526/210154438-c9358338-33f0-45e2-88e6-dc58e5c20cfd.png)
 
 
